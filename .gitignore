@@ -1,0 +1,4 @@
+# ignore saved Plots
+*.pdf
+*.png
+*fig
